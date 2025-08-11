@@ -1,4 +1,4 @@
-# Warpmail (AI Personified) 🧠✉️
+# Warpmail
 
 An intelligent email management platform that leverages AI to understand communication patterns, provide contextual insights, and enhance email composition through personalized analysis.
 
